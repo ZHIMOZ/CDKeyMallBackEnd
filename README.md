@@ -1,2 +1,1 @@
-# xfg-frame-archetype - DDD 脚手架
-
+# 这是一个CDKey交易系统
