@@ -13,6 +13,7 @@
         <module>CDKeyMallBackEnd-trigger</module>
         <module>CDKeyMallBackEnd-infrastructure</module>
         <module>CDKeyMallBackEnd-types</module>
+        <module>CDKeyMallBackEnd-api</module>
     </modules>
 
     <repositories>
